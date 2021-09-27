@@ -1,13 +1,45 @@
-{"tracks": [
+{
+    
+    "tracks": [
 
-    "Botella Tras Botella - Gera MX.mp3",
-    "Una Rosa - 3 AM.mp3",
-    "Luna - 3 AM.mp3",
-    "Way Back Home - SHAUN.mp3",
-    "Vámonos a Marte - Kevin Kaarl.mp3",
-    "San Lucas - Kevin Kaarl.mp3",
-    "Friday - Evade From.mp3",
-    "Renai Circulation - Someone.mp3",
-    "Feel Good Inc - Gorillaz.mp3"
+        "Botella Tras Botella - Gera MX.mp3",
+        "Una Rosa - 3 AM.mp3",
+        "Luna - 3 AM.mp3",
+        "Way Back Home - SHAUN.mp3",
+        "Vámonos a Marte - Kevin Kaarl.mp3",
+        "San Lucas - Kevin Kaarl.mp3",
+        "Friday - Evade From.mp3",
+        "Renai Circulation - Someone.mp3",
+        "Feel Good Inc - Gorillaz.mp3"
 
-    ]}
+    ],
+
+    "playlists": [
+
+        {"Chill": [
+
+            "Botella Tras Botella - Gera MX.mp3",
+            "Una Rosa - 3 AM.mp3",
+            "Luna - 3 AM.mp3",
+            "Way Back Home - SHAUN.mp3",
+            "Alien Boy - Oliver Tree.mp3",
+            "Vámonos a Marte - Kevin Kaarl.mp3",
+            "San Lucas - Kevin Kaarl.mp3",
+            "Friday - Evade From.mp3",
+            "Renai Circulation - Someone.mp3",
+            "Feel Good Inc - Gorillaz.mp3"
+
+        ]},
+
+        {"Happy": [
+
+            "Toc Toc - Macaco.mp3",
+            "Beggin - Maneskin.mp3",
+            "Hey Ya - Outkast.mp3",
+            "Kiss Me More - Doja Cat.mp3"
+
+        ]}
+
+    ]
+
+}
