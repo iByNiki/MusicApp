@@ -16,7 +16,7 @@
 
     "playlists": [
 
-        {"Chill": [
+        {"name": "Chill", "tracks": [
 
             "Botella Tras Botella - Gera MX.mp3",
             "Una Rosa - 3 AM.mp3",
@@ -31,7 +31,7 @@
 
         ]},
 
-        {"Happy": [
+        {"name": "Happy", "tracks": [
 
             "Toc Toc - Macaco.mp3",
             "Beggin - Maneskin.mp3",
